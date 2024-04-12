@@ -1,0 +1,6 @@
+test/logs
+.DS_Store
+.vscode
+node_modules
+bun.lockb
+
